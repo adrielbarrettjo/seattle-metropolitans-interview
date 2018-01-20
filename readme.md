@@ -1,0 +1,1 @@
+This is a repository describing the Seattle Metropolitans position.
